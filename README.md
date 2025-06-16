@@ -47,7 +47,9 @@ The Decentralized Fitness Tracker has extensive potential for expansion and enha
 
 ## Contract Address
 
-**Testnet Contract Address**: `ST2EV4JDJQKWQV13H0VVHG66ABCTR1P8YR596CHR6.middle-olive-tiglon`
+**Testnet Contract Address**: `
+STGPBEW1DRVNA80A863AYGPGNJ91SYNBYKTZK0QB.decentralized-fitness-tracker-contract
+`
 
 **Mainnet Contract Address**: *To be deployed*
 
