@@ -100,3 +100,4 @@ STGPBEW1DRVNA80A863AYGPGNJ91SYNBYKTZK0QB.decentralized-fitness-tracker-contract
 ---
 
 *Join the fitness revolution on the blockchain! Take control of your health data while building a healthier lifestyle.*
+<img width="1421" alt="scrrenshot" src="https://github.com/user-attachments/assets/2bfb7246-7da1-4dc9-8bd7-28e05265f5b9" />
