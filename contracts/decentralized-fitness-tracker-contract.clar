@@ -1,4 +1,4 @@
-decentralized-fitness-tracker-contract.clar
+
 ;; Decentralized Fitness Tracker Contract
 ;; Users can log workouts and view their fitness stats
 
